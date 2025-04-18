@@ -15,6 +15,7 @@ def format_price(price):
 
 
 def parse():
+
     url = 'https://keyauto.ru/omsk/cars/'
 
     # Инициализация случайного User-Agent
